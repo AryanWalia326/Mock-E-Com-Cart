@@ -1,4 +1,4 @@
- 🔧 Troubleshooting Guide - Vibe Commerce
+# Troubleshooting Guide
 
 Common issues and their solutions.
 

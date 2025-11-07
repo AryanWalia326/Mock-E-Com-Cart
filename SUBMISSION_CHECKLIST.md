@@ -1,6 +1,6 @@
-# Vibe Commerce - Submission Checklist
+# Submission Checklist
 
-## 📋 Before Submitting
+## Before Submitting
 
 ### Code Quality
 - [x] Backend server runs without errors
@@ -61,7 +61,7 @@
 - [ ] Test video link
 - [ ] Add video link to README
 
-## 🚀 GitHub Setup Commands
+## GitHub Setup Commands
 
 ```powershell
 # Initialize git repository
@@ -80,7 +80,7 @@ git branch -M main
 git push -u origin main
 ```
 
-## 📸 Screenshots to Take
+## Screenshots to Take
 
 1. **Product Grid** (full page)
    - Save as: `screenshots/products.png`

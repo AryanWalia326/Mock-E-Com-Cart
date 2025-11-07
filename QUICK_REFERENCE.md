@@ -1,4 +1,4 @@
-# 🚀 Quick Reference - Vibe Commerce
+# Quick Reference
 
 ## Essential Commands
 
