@@ -326,14 +326,11 @@ This is a **complete, professional-grade application** that demonstrates:
 ## 📧 Submission Template
 
 ```
-Subject: Vibe Commerce Internship Assignment - [Your Name]
+Subject: Vibe Commerce Internship Assignment - [Aryan Walia]
 
 Dear Hiring Team,
 
 I am excited to submit my Vibe Commerce shopping cart assignment.
-
-GitHub: [YOUR_REPO_URL]
-Demo Video: [YOUR_VIDEO_URL]
 
 Tech Stack: React, Node.js, Express, MongoDB
 Features: All required + bonuses (DB persistence, error handling)
@@ -341,18 +338,12 @@ Features: All required + bonuses (DB persistence, error handling)
 Thank you for this opportunity!
 
 Best regards,
-[Your Name]
+[Aryan Walia]
 ```
 
 ---
 
 **Everything is built and ready. You got this! 💪✨**
-
-**Estimated time to completion**: 40-60 minutes (install, test, record, submit)
-
-**Questions?** Check the documentation files - they have everything you need!
-
----
 
 Built with ❤️ for Vibe Commerce Internship
 Good luck! 🍀
